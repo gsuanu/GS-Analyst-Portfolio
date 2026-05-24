@@ -54,9 +54,6 @@ My background combines operational experience with technical analytics skills, a
 ## 📦 Procurement & Logistics Dashboard
 ### Objective
 Analysed procurement and logistics operations to identify delays, monitor supplier performance, and improve operational efficiency.
-![Executive Analysis Dashboard](Executive Analysis Dashboard.png)
-![Delivery Speed Analysis Dashboard](Delay Driver Analysis Dashboard.png)
-![Agent & Area Performance Analysis Dashboard](Agent and Area Performance Dashboard.png)
 
 ### Tools Used
 - Power BI
@@ -73,6 +70,10 @@ Analysed procurement and logistics operations to identify delays, monitor suppli
 ## 🚚 Delivery Performance Analysis
 ### Objective
 Built a dashboard to analyse delivery efficiency and operational bottlenecks across multiple regions.
+
+![Executive Analysis Dashboard](Executive Analysis Dashboard.png)
+![Delivery Speed Analysis Dashboard](Delay Driver Analysis Dashboard.png)
+![Agent & Area Performance Analysis Dashboard](Agent and Area Performance Dashboard.png)
 
 ### Tools Used
 - Power BI
