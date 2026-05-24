@@ -54,7 +54,7 @@ My background combines operational experience with technical analytics skills, a
 ## 📦 Procurement & Logistics Dashboard
 ### Objective
 Analysed procurement and logistics operations to identify delays, monitor supplier performance, and improve operational efficiency.
-![alt text](Bestseller Overview.png)
+![Dashboard](Bestseller Overview.png)
 ### Tools Used
 - Power BI
 - Excel
