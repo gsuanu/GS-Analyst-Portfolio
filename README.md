@@ -1,2 +1,1 @@
-# GS_Analyst-Projects
-Data Analytics Portfolio Projects 
+## Data Analytics Portfolio Projects 
